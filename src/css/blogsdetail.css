@@ -1,0 +1,13 @@
+.blog__title h3,
+.blog__title h2,
+.blog__title p {
+  text-transform: capitalize;
+}
+.blog__title h3 {
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+.blog__title h2 {
+  font-size: 2rem;
+  font-weight: 300;
+}/*# sourceMappingURL=blogsdetail.css.map */

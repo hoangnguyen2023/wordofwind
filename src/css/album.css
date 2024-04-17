@@ -1,0 +1,23 @@
+.mg-50 {
+  margin: 50px 0;
+}
+
+.album__item h3,
+.album__item h2,
+.album__item p {
+  text-transform: capitalize;
+}
+.album__item h3 {
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+.album__item h2 {
+  font-size: 2rem;
+  font-weight: 300;
+}
+
+.album__item .p-2 img {
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+}/*# sourceMappingURL=album.css.map */

@@ -1,0 +1,31 @@
+.py-50 {
+  padding-top: 30px;
+}
+
+.galleryblbum__title h3,
+.galleryblbum__title h2,
+.galleryblbum__title p {
+  text-transform: capitalize;
+}
+.galleryblbum__title h3 {
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+.galleryblbum__title h2 {
+  font-size: 2rem;
+  font-weight: 300;
+}
+
+.galleryvideo__title h3,
+.galleryvideo__title h2,
+.galleryvideo__title p {
+  text-transform: capitalize;
+}
+.galleryvideo__title h3 {
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+.galleryvideo__title h2 {
+  font-size: 2rem;
+  font-weight: 300;
+}/*# sourceMappingURL=galleryalbum.css.map */

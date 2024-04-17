@@ -1,0 +1,13 @@
+.title__head h3,
+.title__head h2,
+.title__head p {
+  text-transform: capitalize;
+}
+.title__head h3 {
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+.title__head h2 {
+  font-size: 2rem;
+  font-weight: 300;
+}/*# sourceMappingURL=detail.css.map */

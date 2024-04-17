@@ -1,0 +1,41 @@
+// .video__main {
+//     background-image: url('../assets/images/album8.jpg');
+//     background-size: cover;
+//     background-position: center;
+ 
+   
+
+// }
+
+.video__title {
+
+text-align: center;
+    & h3,
+    h2,
+    p {
+        text-transform: capitalize;
+    }
+
+    & h3 {
+        font-size: 1.5rem;
+        font-weight: 100;
+    }
+
+    & h2 {
+        font-size: 2rem;
+        font-weight: 300;
+    }
+}
+.video__item{
+    width: 35% !important;
+    margin: 0 auto;
+}
+// .video__main{
+//     position: relative;
+//     & .video__item{
+//         position: absolute;
+//         top: 0;
+//         right: 100px;
+
+//     }
+// }

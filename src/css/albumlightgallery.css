@@ -1,0 +1,8 @@
+.album__gallery img {
+  transition: all 0.8s ease-in-out;
+}
+
+.album__gallery img:hover {
+  transform: scale(1.05);
+  filter: brightness(60%);
+}/*# sourceMappingURL=albumlightgallery.css.map */

@@ -1,0 +1,17 @@
+.py-50 {
+  margin: 50px 0;
+}
+
+.service__title h3,
+.service__title h2,
+.service__title p {
+  text-transform: capitalize;
+}
+.service__title h3 {
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+.service__title h2 {
+  font-size: 2rem;
+  font-weight: 300;
+}/*# sourceMappingURL=service.css.map */
