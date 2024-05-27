@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wordofwind/static/css/main.ee03b002.css",
-    "main.js": "/wordofwind/static/js/main.4b6cb86e.js",
+    "main.js": "/wordofwind/static/js/main.63b401fd.js",
     "reactPlayerYouTube.js": "/wordofwind/static/js/reactPlayerYouTube.594461a1.chunk.js",
     "reactPlayerSoundCloud.js": "/wordofwind/static/js/reactPlayerSoundCloud.ca5f7b85.chunk.js",
     "reactPlayerVimeo.js": "/wordofwind/static/js/reactPlayerVimeo.1aceb575.chunk.js",
@@ -68,7 +68,7 @@
     "static/media/lg.woff2?io9a6k": "/wordofwind/static/media/lg.64b800aa30714fd916dc.woff2",
     "index.html": "/wordofwind/index.html",
     "main.ee03b002.css.map": "/wordofwind/static/css/main.ee03b002.css.map",
-    "main.4b6cb86e.js.map": "/wordofwind/static/js/main.4b6cb86e.js.map",
+    "main.63b401fd.js.map": "/wordofwind/static/js/main.63b401fd.js.map",
     "reactPlayerYouTube.594461a1.chunk.js.map": "/wordofwind/static/js/reactPlayerYouTube.594461a1.chunk.js.map",
     "reactPlayerSoundCloud.ca5f7b85.chunk.js.map": "/wordofwind/static/js/reactPlayerSoundCloud.ca5f7b85.chunk.js.map",
     "reactPlayerVimeo.1aceb575.chunk.js.map": "/wordofwind/static/js/reactPlayerVimeo.1aceb575.chunk.js.map",
@@ -86,6 +86,6 @@
   },
   "entrypoints": [
     "static/css/main.ee03b002.css",
-    "static/js/main.4b6cb86e.js"
+    "static/js/main.63b401fd.js"
   ]
 }
