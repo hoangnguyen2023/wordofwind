@@ -11,12 +11,8 @@ const Gallery = () => {
     <div>
       < Banner />
       <AlbumLightGallery />
-     <GalleryAlbum />
-     <GalleryVideo/>
-
-
-
-
+      <GalleryAlbum />
+      <GalleryVideo />
     </div>
   )
 }

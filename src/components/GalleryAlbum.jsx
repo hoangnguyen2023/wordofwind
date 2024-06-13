@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import galleryalbum10 from '../assets/images/album10.jpg'
 import galleryalbum11 from '../assets/images/album11.jpg'
 import galleryalbum12 from '../assets/images/album12.jpg'
@@ -14,6 +14,11 @@ import galleryalbum19 from '../assets/images/album19.jpg'
 
 
 const GalleryAlbum = () => {
+  const [like,uselike]=useState(100)
+  const handlelike =()=>{
+    uselike(like + 1)
+
+  }
 
 
 
@@ -40,9 +45,9 @@ const GalleryAlbum = () => {
                 <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
               </div>
               <div className="card-footer">
-                <small className="text-muted p-2"><i class="fa-solid fa-heart"></i></small>
+                <small className="text-danger p-2"><i class="fa-solid fa-heart " style={{fontSize:15}} onClick={handlelike}></i> {like}</small>
                 <small className="text-muted p-2"><i class="fa-solid fa-comment"></i></small>
-                <small className="text-muted p-2"><i class="fa-solid fa-share"></i></small>
+                <small className="text-muted p-2"><i class="fa-solid fa-eye"></i></small>
               </div>
             </div>
           </div>

@@ -31,22 +31,10 @@ root.render(
         <Route path="*" element={<Navigate to="/" />} ></Route>
         <Route path="Register" element={<Register />} ></Route>
       </Route>
-
       <Route path='AdminTemplates' element={<AdminTemplates />}>
         <Route path="Product" element={<Product />} ></Route>
-
-
-
       </Route>
-
-
-
-
-
-
     </Routes>
-
-
   </BrowserRouter>
 
 
